@@ -1,0 +1,6 @@
+{"first name": "Dolev", "last name": "seri", "mail": "Dolev.Seri@e.braude.ac.il", "proficient": "probability", "link": "https://www.walla.co.il"}
+{"first name": "Nofar", "last name": "Ben-simon", "mail": "nofar@e.braude.ac.il", "proficient": "cloud", "link": "https://www.walla.co.il"}
+{"first name": "Debbi", "last name": "Dubinker", "mail": "debbi@e.braue.ac.il", "proficient": "probability", "link": "https://github.com"}
+{"first name": "Eyal", "last name": "Koubi", "mail": "eyal.koubi@e.braue.ac.il", "proficient": "Mechanicks", "link": "https://www.youtube.com"}
+{"first name": "Noy", "last name": "Biton", "mail": "noy.biton@e.braue.ac.il", "proficient": "Aguda", "link": "https://www.google.com"}
+{"first name": "Ilanit", "last name": "Hanooko", "mail": "ilanit.hanooko@e.braue.ac.il", "proficient": "Aguda", "link": "https://www.walla.com"}
