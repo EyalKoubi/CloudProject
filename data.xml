@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+	<question>
+		<question>What is a common risk associated with cloud computing?</question>
+		<option1>Data redundancy</option1>
+		<option2>Limited scalability</option2>
+		<option3>Increased network latency</option3>
+		<option4>Inadequate security measures</option4>
+		<correctOption>Inadequate security measures</correctOption>
+	</question>
+	<question>
+		<question>Which cloud computing model allows users to fully manage and control the underlying infrastructure?</question>
+		<option1>Software as a Service (SaaS)</option1>
+		<option2>Infrastructure as a Service (IaaS)</option2>
+		<option3>Platform as a Service (PaaS)</option3>
+		<option4>Function as a Service (FaaS)</option4>
+		<correctOption>Infrastructure as a Service (IaaS)</correctOption>
+	</question>
+	<question>
+		<question>Which of the following is an example of a public cloud provider?</question>
+		<option1>Google Cloud Platform (GCP)</option1>
+		<option2>VMware</option2>
+		<option3>Microsoft Azure Stack</option3>
+		<option4>OpenStack</option4>
+		<correctOption>Google Cloud Platform (GCP)</correctOption>
+	</question>
+	<question>
+		<question>What does SLA stand for in cloud computing?</question>
+		<option1>Service Level Agreement</option1>
+		<option2>Software License Agreement</option2>
+		<option3>Security and Liability Assessment</option3>
+		<option4>System Lifecycle Analysis</option4>
+		<correctOption>Service Level Agreement</correctOption>
+	</question>
+	<question>
+		<question>Which cloud deployment model offers the highest level of control and security?</question>
+		<option1>Public cloud</option1>
+		<option2>Private cloud</option2>
+		<option3>Hybrid cloud</option3>
+		<option4>Community cloud</option4>
+		<correctOption>Private cloud</correctOption>
+	</question>
+	<question>
+		<question>What is the main advantage of cloud storage over traditional local storage?</question>
+		<option1>Lower cost</option1>
+		<option2>Faster access speed</option2>
+		<option3>Increased physical security</option3>
+		<option4>Better compatibility with legacy systems</option4>
+		<correctOption>Lower cost</correctOption>
+	</question>
+	<question>
+		<question>Which cloud computing service model provides ready-to-use software applications over the internet?</question>
+		<option1>Infrastructure as a Service (IaaS)</option1>
+		<option2>Platform as a Service (PaaS)</option2>
+		<option3>Software as a Service (SaaS)</option3>
+		<option4>Function as a Service (FaaS)</option4>
+		<correctOption>Software as a Service (SaaS)</correctOption>
+	</question>
+	<question>
+		<question>What is the purpose of load balancing in cloud computing?</question>
+		<option1>Minimize network latency</option1>
+		<option2>Optimize resource utilization</option2>
+		<option3>Ensure data privacy and security</option3>
+		<option4>Automate software deployment</option4>
+		<correctOption>Optimize resource utilization</correctOption>
+	</question>
+	<question>
+		<question>Which cloud computing model allows multiple organizations with a shared interest to collaborate on a specific project?</question>
+		<option1>Public cloud</option1>
+		<option2>Private cloud</option2>
+		<option3>Hybrid cloud</option3>
+		<option4>Community cloud</option4>
+		<correctOption>Community cloud</correctOption>
+	</question>
+	<question>
+		<question>dsfsdf</question>
+		<option1>cx</option1>
+		<option2>asda</option2>
+		<option3>zxczx</option3>
+		<option4>qwq</option4>
+		<correctOption>asda</correctOption>
+	</question>
+	<question>
+		<question>ew</question>
+		<option1>q</option1>
+		<option2>a</option2>
+		<option3>s</option3>
+		<option4>d</option4>
+		<correctOption>s</correctOption>
+	</question>
+</Questions>
