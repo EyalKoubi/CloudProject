@@ -1,0 +1,162 @@
+<questions>
+  <question ID="1">
+    <title>What is the primary benefit of cloud computing?</title>
+    <option1>Improved physical security</option1>
+    <option2>Reduced scalability</option2>
+    <option3>Limited accessibility</option3>
+    <option4>Increased flexibility</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="2">
+    <title>Which cloud service model provides the highest level of control and flexibility to the user?</title>
+    <option1>Infrastructure as a Service (IaaS)</option1>
+    <option2>Platform as a Service (PaaS)</option2>
+    <option3>Software as a Service (SaaS)</option3>
+    <option4>Function as a Service (FaaS)</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="3">
+    <title>What is the main characteristic of cloud computing that enables on-demand self-service?</title>
+    <option1>Scalability</option1>
+    <option2>Elasticity</option2>
+    <option3>Resource pooling</option3>
+    <option4>Automation</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="4">
+    <title>Which of the following cloud deployment models provides the highest level of privacy and control?</title>
+    <option1>Public cloud</option1>
+    <option2>Private cloud</option2>
+    <option3>Hybrid cloud</option3>
+    <option4>Community cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="5">
+    <title>Which cloud computing characteristic ensures that resources can be rapidly provisioned and released with minimal effort?</title>
+    <option1>Elasticity</option1>
+    <option2>On-demand self-service</option2>
+    <option3>Measured service</option3>
+    <option4>Broad network access</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="6">
+    <title>What is the primary purpose of load balancing in cloud computing?</title>
+    <option1>To distribute network traffic evenly</option1>
+    <option2>To secure data in transit</option2>
+    <option3>To automate resource provisioning</option3>
+    <option4>To monitor application performance</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="7">
+    <title>Which cloud computing model allows users to build, deploy, and manage applications without the need to worry about underlying infrastructure?</title>
+    <option1>Infrastructure as a Service (IaaS)</option1>
+    <option2>Platform as a Service (PaaS)</option2>
+    <option3>Software as a Service (SaaS)</option3>
+    <option4>Function as a Service (FaaS)</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="8">
+    <title>What is the term used to describe the practice of using multiple cloud service providers to minimize the risk of vendor lock-in?</title>
+    <option1>Cloud integration</option1>
+    <option2>Cloud federation</option2>
+    <option3>Cloud orchestration</option3>
+    <option4>Cloud brokering</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="9">
+    <title>What is the purpose of a virtual machine in cloud computing?</title>
+    <option1>To emulate physical hardware</option1>
+    <option2>To provide storage services</option2>
+    <option3>To secure network communications</option3>
+    <option4>To monitor system performance</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="10">
+    <title>Which cloud computing characteristic refers to the ability to dynamically allocate and deallocate resources based on workload?</title>
+    <option1>On-demand self-service</option1>
+    <option2>Resource pooling</option2>
+    <option3>Rapid elasticity</option3>
+    <option4>Measured service</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="11">
+    <title>Which cloud deployment model offers the greatest level of cost efficiency and resource sharing?</title>
+    <option1>Public cloud</option1>
+    <option2>Private cloud</option2>
+    <option3>Hybrid cloud</option3>
+    <option4>Community cloud</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="12">
+    <title>What is the term used to describe the process of moving an application from an on-premises environment to the cloud?</title>
+    <option1>Cloud migration</option1>
+    <option2>Cloud integration</option2>
+    <option3>Cloud transformation</option3>
+    <option4>Cloud adoption</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="13">
+    <title>Which cloud computing characteristic allows users to access cloud services over the internet using standard protocols?</title>
+    <option1>Broad network access</option1>
+    <option2>On-demand self-service</option2>
+    <option3>Resource pooling</option3>
+    <option4>Measured service</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="14">
+    <title>Which cloud service model offers fully configured applications that are ready to use by customers?</title>
+    <option1>Infrastructure as a Service (IaaS)</option1>
+    <option2>Platform as a Service (PaaS)</option2>
+    <option3>Software as a Service (SaaS)</option3>
+    <option4>Function as a Service (FaaS)</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="15">
+    <title>What is the term used to describe the ability to scale resources up or down based on demand in cloud computing?</title>
+    <option1>Vertical scaling</option1>
+    <option2>Horizontal scaling</option2>
+    <option3>Elastic scaling</option3>
+    <option4>Rapid scaling</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="16">
+    <title>Which cloud deployment model combines public and private clouds to take advantage of their respective benefits?</title>
+    <option1>Public cloud</option1>
+    <option2>Private cloud</option2>
+    <option3>Hybrid cloud</option3>
+    <option4>Community cloud</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="17">
+    <title>What is the term used to describe the amount of computing resources consumed by a cloud service?</title>
+    <option1>Resource utilization</option1>
+    <option2>Resource allocation</option2>
+    <option3>Resource pooling</option3>
+    <option4>Resource consumption</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="18">
+    <title>Which cloud computing characteristic allows users to access cloud services using a pay-per-use model?</title>
+    <option1>On-demand self-service</option1>
+    <option2>Broad network access</option2>
+    <option3>Measured service</option3>
+    <option4>Elasticity</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="19">
+    <title>What is the primary purpose of data replication in cloud computing?</title>
+    <option1>To improve data security</option1>
+    <option2>To reduce data redundancy</option2>
+    <option3>To enable disaster recovery</option3>
+    <option4>To optimize data storage</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="20">
+    <title>Which cloud computing model offers event-driven computing without the need to manage infrastructure?</title>
+    <option1>Infrastructure as a Service (IaaS)</option1>
+    <option2>Platform as a Service (PaaS)</option2>
+    <option3>Software as a Service (SaaS)</option3>
+    <option4>Function as a Service (FaaS)</option4>
+    <answer>4</answer>
+  </question>
+</questions>

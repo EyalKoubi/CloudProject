@@ -1,0 +1,162 @@
+<Questions>
+  <Question ID="1">
+    <Title>What is a virtual machine (VM) in cloud computing?</Title>
+    <Option1>A physical server in a data center</Option1>
+    <Option2>A software container that emulates a physical computer</Option2>
+    <Option3>A storage device used to store cloud data</Option3>
+    <Option4>A network protocol used for cloud communication</Option4>
+    <Answer>2</Answer>
+  </Question>
+  <Question ID="2">
+    <Title>What is the purpose of load balancing in cloud computing?</Title>
+    <Option1>To distribute network traffic evenly across multiple servers</Option1>
+    <Option2>To encrypt data stored in the cloud</Option2>
+    <Option3>To monitor cloud resource utilization</Option3>
+    <Option4>To automate software deployment in the cloud</Option4>
+    <Answer>1</Answer>
+  </Question>
+  <Question ID="3">
+    <Title>What is the main benefit of serverless computing?</Title>
+    <Option1>Reduced costs</Option1>
+    <Option2>Improved scalability</Option2>
+    <Option3>Enhanced security</Option3>
+    <Option4>Increased control over infrastructure</Option4>
+    <Answer>2</Answer>
+  </Question>
+  <Question ID="4">
+    <Title>What is the purpose of a content delivery network (CDN) in cloud computing?</Title>
+    <Option1>To store and retrieve data from the cloud</Option1>
+    <Option2>To provide virtual machines for cloud users</Option2>
+    <Option3>To distribute content geographically for faster delivery</Option3>
+    <Option4>To establish secure connections between cloud resources</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="5">
+    <Title>What is the difference between private cloud and public cloud?</Title>
+    <Option1>Private cloud is more expensive than public cloud</Option1>
+    <Option2>Private cloud is managed by a third-party provider</Option2>
+    <Option3>Public cloud is accessible to anyone over the internet</Option3>
+    <Option4>Public cloud offers higher security than private cloud</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="6">
+    <Title>What is the role of containers in cloud computing?</Title>
+    <Option1>To store and manage cloud data</Option1>
+    <Option2>To provide virtual machines for cloud users</Option2>
+    <Option3>To deploy and run applications consistently across different environments</Option3>
+    <Option4>To establish secure connections between cloud resources</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="7">
+    <Title>What is the main purpose of a database as a service (DBaaS) in cloud computing?</Title>
+    <Option1>To provide virtual machines for cloud users</Option1>
+    <Option2>To distribute content geographically for faster delivery</Option2>
+    <Option3>To store and manage databases in the cloud</Option3>
+    <Option4>To automate software deployment in the cloud</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="8">
+    <Title>What is the concept of auto-scaling in cloud computing?</Title>
+    <Option1>Encrypting data stored in the cloud</Option1>
+    <Option2>Automatically adjusting cloud resources based on demand</Option2>
+    <Option3>Monitoring cloud resource utilization</Option3>
+    <Option4>Providing secure connections between cloud resources</Option4>
+    <Answer>2</Answer>
+  </Question>
+  <Question ID="9">
+    <Title>What is the purpose of a message queue in cloud computing?</Title>
+    <Option1>To distribute network traffic evenly across multiple servers</Option1>
+    <Option2>To store and retrieve data from the cloud</Option2>
+    <Option3>To enable asynchronous communication between cloud components</Option3>
+    <Option4>To establish secure connections between cloud resources</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="10">
+    <Title>What is the main advantage of using serverless functions in cloud computing?</Title>
+    <Option1>Reduced costs</Option1>
+    <Option2>Improved scalability</Option2>
+    <Option3>Enhanced security</Option3>
+    <Option4>Increased control over infrastructure</Option4>
+    <Answer>1</Answer>
+  </Question>
+  <Question ID="11">
+    <Title>What is the purpose of a virtual private network (VPN) in cloud computing?</Title>
+    <Option1>To store and manage databases in the cloud</Option1>
+    <Option2>To distribute content geographically for faster delivery</Option2>
+    <Option3>To establish a secure connection to the cloud over the internet</Option3>
+    <Option4>To automate software deployment in the cloud</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="12">
+    <Title>What is the concept of infrastructure as code (IaC) in cloud computing?</Title>
+    <Option1>Automatically adjusting cloud resources based on demand</Option1>
+    <Option2>Encrypting data stored in the cloud</Option2>
+    <Option3>Storing and managing cloud data</Option3>
+    <Option4>Defining and managing infrastructure through machine-readable code</Option4>
+    <Answer>4</Answer>
+  </Question>
+  <Question ID="13">
+    <Title>What is the purpose of a disaster recovery plan in cloud computing?</Title>
+    <Option1>To distribute network traffic evenly across multiple servers</Option1>
+    <Option2>To store and retrieve data from the cloud</Option2>
+    <Option3>To ensure business continuity in the event of a disaster</Option3>
+    <Option4>To establish secure connections between cloud resources</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="14">
+    <Title>What is the role of a container orchestration tool in cloud computing?</Title>
+    <Option1>To store and manage cloud data</Option1>
+    <Option2>To distribute content geographically for faster delivery</Option2>
+    <Option3>To automate the deployment, scaling, and management of containers</Option3>
+    <Option4>To provide secure connections between cloud resources</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="15">
+    <Title>What is the main purpose of a content management system (CMS) in cloud computing?</Title>
+    <Option1>To store and manage databases in the cloud</Option1>
+    <Option2>To provide virtual machines for cloud users</Option2>
+    <Option3>To enable easy creation and management of digital content</Option3>
+    <Option4>To automate software deployment in the cloud</Option4>
+    <Answer>3</Answer>
+  </Question>
+  <Question ID="16">
+    <Title>What is the concept of multi-tenancy in cloud computing?</Title>
+    <Option1>Reducing costs by sharing cloud resources among multiple users</Option1>
+    <Option2>Encrypting data stored in the cloud</Option2>
+    <Option3>Monitoring cloud resource utilization</Option3>
+    <Option4>Providing secure connections between cloud resources</Option4>
+    <Answer>1</Answer>
+  </Question>
+  <Question ID="17">
+    <Title>What is the purpose of a serverless database in cloud computing?</Title>
+    <Option1>To store and manage databases in the cloud</Option1>
+    <Option2>To distribute content geographically for faster delivery</Option2>
+    <Option3>To enable easy creation and management of digital content</Option3>
+    <Option4>To provide virtual machines for cloud users</Option4>
+    <Answer>1</Answer>
+  </Question>
+  <Question ID="18">
+    <Title>What is the main advantage of using microservices architecture in cloud computing?</Title>
+    <Option1>Reduced costs</Option1>
+    <Option2>Improved scalability</Option2>
+    <Option3>Enhanced security</Option3>
+    <Option4>Increased control over infrastructure</Option4>
+    <Answer>2</Answer>
+  </Question>
+  <Question ID="19">
+    <Title>What is the purpose of a cloud storage service in cloud computing?</Title>
+    <Option1>To distribute network traffic evenly across multiple servers</Option1>
+    <Option2>To store and retrieve data from the cloud</Option2>
+    <Option3>To enable asynchronous communication between cloud components</Option3>
+    <Option4>To establish secure connections between cloud resources</Option4>
+    <Answer>2</Answer>
+  </Question>
+  <Question ID="20">
+    <Title>What is the role of a serverless function in cloud computing?</Title>
+    <Option1>To automate software deployment in the cloud</Option1>
+    <Option2>To provide virtual machines for cloud users</Option2>
+    <Option3>To enable easy creation and management of digital content</Option3>
+    <Option4>To run application code without provisioning or managing servers</Option4>
+    <Answer>4</Answer>
+  </Question>
+</Questions>

@@ -1,0 +1,162 @@
+<questions>
+  <question ID="1">
+    <title>Which deployment model provides dedicated infrastructure for a single organization?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="2">
+    <title>Which architecture allows multiple organizations to share a common cloud infrastructure?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="3">
+    <title>Which deployment model provides the highest level of control and security?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="4">
+    <title>Which cloud architecture combines public and private cloud infrastructures?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="5">
+    <title>Which deployment model is suitable for sensitive data that requires high security?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="6">
+    <title>Which cloud architecture allows resources to be provisioned on-demand and elastically?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="7">
+    <title>Which deployment model is managed and operated by a third-party cloud service provider?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="8">
+    <title>Which cloud architecture provides cloud services to the general public over the internet?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="9">
+    <title>Which deployment model is suitable for collaborative projects among multiple organizations?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="10">
+    <title>Which cloud architecture allows organizations to maintain control over their data and applications?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="11">
+    <title>Which deployment model offers the greatest cost savings due to resource sharing?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="12">
+    <title>Which cloud architecture combines the benefits of both public and private clouds?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="13">
+    <title>Which deployment model is suitable for organizations with varying workload demands?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="14">
+    <title>Which cloud architecture allows organizations to share cloud infrastructure with specific groups?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="15">
+    <title>Which deployment model is suitable for applications that require high scalability and flexibility?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>1</answer>
+  </question>
+  <question ID="16">
+    <title>Which cloud architecture allows organizations to integrate on-premises infrastructure with cloud services?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>3</answer>
+  </question>
+  <question ID="17">
+    <title>Which deployment model offers cloud services to a specific community or group of organizations?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>4</answer>
+  </question>
+  <question ID="18">
+    <title>Which cloud architecture provides higher levels of privacy and compliance?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="19">
+    <title>Which deployment model is suitable for applications that require low latency and high performance?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>2</answer>
+  </question>
+  <question ID="20">
+    <title>Which cloud architecture provides cloud services to multiple organizations with shared interests?</title>
+    <option1>Public Cloud</option1>
+    <option2>Private Cloud</option2>
+    <option3>Hybrid Cloud</option3>
+    <option4>Community Cloud</option4>
+    <answer>4</answer>
+  </question>
+</questions>
